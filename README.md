@@ -4,4 +4,4 @@ As what I've learned is that Turing’s ideas were groundbreaking because they o
 
 It’s also fascinating to see how Turing foresaw the development of learning machines, an area that has grown tremendously since his time. However, even with advancements in machine learning and AI, we’re still grappling with the complexities of human intelligence and what it means for a machine to truly understand.
 
-His study laid the foundation for AI, and while some aspects of his vision have evolved with new technology, his ideas continue to influence the way we think about intelligence and the possibilities of human-machine interaction. His work inspires us to keep questioning and exploring the boundaries of thought and technology.
+His study laid the foundation for AI, and while some aspects of his vision have evolved with new technology, Turing's ideas continue to influence the way we think about intelligence and the possibilities of human-machine interaction. His work inspires us to keep questioning and exploring the boundaries of thought and technology.
